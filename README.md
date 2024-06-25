@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mantej-josan
+- 👋 Hi, I’m @mantejjosan
 - 👀 I’m interested in learning about ML, AI and better algorithms to solve any trivial or complex problem.
 - 🌱 I’m currently practicing frontend
 - 💞️ I’m looking to collaborate on pretty much anything I can.
