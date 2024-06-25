@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mantej-josan
-- 👀 I’m interested in learning about ML, AI and better algorithms to solve any problem from trivial to complex.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on pretty much everything
+- 👀 I’m interested in learning about ML, AI and better algorithms to solve any trivial or complex problem.
+- 🌱 I’m currently practicing frontend
+- 💞️ I’m looking to collaborate on pretty much anything I can.
 - 📫 Reach me via my email mantej416@gmail.com
 
 <!---
